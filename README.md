@@ -4,4 +4,3 @@
 
 ### Topic: Object Detection using OpenCV and Faster R-CNN on foggy and rainy conditions
 ### 🡺 [Paper](./paper.pdf) 🡸 issued by supervisor.
-
