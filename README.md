@@ -5,5 +5,5 @@
 ### Collaborators: <span style="color:#cccccc">[Veda](https://github.com/veda28) & [Kavya](https://github.com/kavya016)</span>
 #
 ### [Paper](./paper.pdf) - issued by supervisor.
-### [Reference Project](./ext-project/) - that uses OpenCV and Faster R-CNN
+### [Reference Project](./ext-project/) - named as [`ext-project`](./ext-project/)
 #
