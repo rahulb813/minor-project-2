@@ -7,3 +7,4 @@
 ### [Paper](./paper.pdf) - issued by supervisor.
 ### [Reference Project](https://github.com/VIML-CVDL/Object-Detection-in-Foggy-Scenes/tree/main)
 #
+## Completed Mid Presentation
